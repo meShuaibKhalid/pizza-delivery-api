@@ -2,6 +2,7 @@
   "name": "node-backend",
   "version": "1.0.0",
   "description": "",
+  "main": "src/app.js",
   "scripts": {
     "start:watch": "nodemon src/app.js",
     "start": " nodemon  src/app.js"
